@@ -1,7 +1,6 @@
-<h1 align="center">Hi there</h1>
-<h2 align="center">Hamdan</h2>
+# Hi there 👋 &nbsp; It is Hamdan-AS
 
-<p align="center">All the way from the home of K2.</p>
+All the way from the home of K2.
 
 Computer Science Engineering student at NED University, Karachi. Class of 2028.
 
