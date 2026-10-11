@@ -1,16 +1,18 @@
-## Hi there 👋
-   # Hamdan-AS is here from all the way of home of K2.
+<h1 align="center">Hi there</h1>
+<h2 align="center">Hamdan</h2>
+
+<p align="center">All the way from the home of K2.</p>
 
 Computer Science Engineering student at NED University, Karachi. Class of 2028.
 
-Exploring toward a path in computer vision , NLP  and other AI core.
+Exploring a path in computer vision, NLP, and core AI.
 
 ## Focus
 
 - Computer vision
+- Object detection
 - Localization and odometry
 - Autonomous vehicle stack
-- Object Detection
 
 ## Projects
 
@@ -21,7 +23,7 @@ Exploring toward a path in computer vision , NLP  and other AI core.
 
 ## Stack
 
-Python, C++, ROS2, Git  
+Python, C++, ROS2, Git
 
 ## Contact
 
