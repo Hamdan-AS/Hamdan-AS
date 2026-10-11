@@ -1,5 +1,5 @@
-## Hi there 👋 
-#It is Hamdan-AS , all the way from the home of K2.
+### Hi there 👋 
+      ##   It is Hamdan-AS , all the way from the home of K2.
 
 Computer Science Engineering student at NED University, Karachi. Class of 2028.
 
